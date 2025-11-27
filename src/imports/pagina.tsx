@@ -153,7 +153,7 @@ function Content() {
           <div className="[grid-area:1_/_1] bg-[rgba(27,200,192,0.6)] border border-[#1bc8c0] border-solid h-[56px] ml-0 mt-0 rounded-[10px] w-[663px]" data-name="Headline Background" />
           <p className="[grid-area:1_/_1] font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal leading-[32px] relative text-[24px] text-center text-white px-[20px]">Inteligencia que une, conecta y transforma.</p>
         </div>
-      <p className="font-['Plus_Jakarta_Sans:Medium',sans-serif] font-medium leading-[120px] min-w-full shrink-0 text-[120px] text-[rgba(0,0,0,0.8)] text-center w-[min-content]">Tu compra, movida por la comunidad</p>
+      <p className="font-['Plus_Jakarta_Sans:Medium',sans-serif] font-medium leading-[120px] min-w-full shrink-0 text-[120px] text-[rgba(0,0,0,0.8)] text-center w-[min-content]">Comercio local, tradición viva</p>
       <p className="font-['Plus_Jakarta_Sans:Regular',sans-serif] font-normal min-h-[32px] leading-[32px] shrink-0 text-[24px] text-black text-center w-[624px] mb-[40px]">impulsa la economía local conectando clientes, microempresas y repartidores en un solo lugar. Pide lo que necesitas y deja que la comunidad se mueva por ti.</p>
       <div className="bg-gradient-to-r box-border content-stretch flex from-[#6b4cff] items-center justify-center px-[24px] py-[12px] rounded-[8px] shrink-0 to-[rgba(107,76,255,0.8)] cursor-pointer transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-purple-500/50" data-name="buttonMarketing? ">
         <p className="font-['Plus_Jakarta_Sans:Medium',sans-serif] font-medium leading-[24px] shrink-0 text-[20px] text-nowrap text-white whitespace-pre">Unete Gratis</p>
